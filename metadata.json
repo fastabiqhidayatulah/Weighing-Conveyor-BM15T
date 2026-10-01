@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi & Virtualisasi Conveyor Belt Scale",
+  "description": "Virtualisasi Conveyor Belt Scale industri dengan kalkulasi kompensasi sudut trigonometri, kontrol VFD, dual load cell, dan monitoring fluktuasi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
